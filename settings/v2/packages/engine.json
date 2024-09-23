@@ -106,6 +106,7 @@
       "3d",
       "animation",
       "base",
+      "custom-pipeline",
       "dragon-bones",
       "gfx-webgl",
       "gfx-webgl2",
@@ -119,8 +120,7 @@
       "spine",
       "tween",
       "ui",
-      "websocket",
-      "custom-pipeline"
+      "websocket"
     ],
     "noDeprecatedFeatures": {
       "value": false,

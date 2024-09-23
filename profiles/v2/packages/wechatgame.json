@@ -1,0 +1,44 @@
+{
+  "__version__": "1.0.4",
+  "builder": {
+    "common": {
+      "buildPath": "project://build",
+      "outputName": "wechatgame",
+      "mainBundleCompressionType": "merge_dep",
+      "platform": "wechatgame",
+      "scenes": [
+        {
+          "url": "db://assets/model-triangles/main.scene",
+          "uuid": "0a9f3b07-88b3-4503-95f0-dff3472fabb9"
+        }
+      ],
+      "startScene": "0a9f3b07-88b3-4503-95f0-dff3472fabb9",
+      "mainBundleIsRemote": true,
+      "startSceneAssetBundle": true,
+      "useBuiltinServer": false,
+      "skipCompressTexture": false,
+      "server": "http://192.168.0.103:8080"
+    },
+    "options": {
+      "wechatgame": {
+        "orientation": "landscapeRight",
+        "appid": "wx6ac3f5090a6b99c5",
+        "buildOpenDataContextTemplate": "",
+        "separateEngine": false,
+        "highPerformanceMode": false,
+        "__version__": "1.0.4"
+      }
+    },
+    "taskOptionsMap": {
+      "1727082238409": {
+        "orientation": "landscapeRight",
+        "appid": "wx6ac3f5090a6b99c5",
+        "buildOpenDataContextTemplate": "",
+        "separateEngine": false,
+        "highPerformanceMode": false,
+        "__version__": "1.0.4"
+      }
+    },
+    "__version__": "1.3.8"
+  }
+}
