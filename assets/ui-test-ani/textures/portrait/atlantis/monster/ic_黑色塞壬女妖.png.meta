@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.24",
+  "ver": "1.0.27",
   "importer": "image",
   "imported": true,
   "uuid": "7358bc6e-c180-4366-ad0c-d59c0c169f2a",
@@ -27,7 +27,7 @@
         "anisotropy": 1,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "7358bc6e-c180-4366-ad0c-d59c0c169f2a",
-        "visible": true
+        "visible": false
       },
       "displayName": "ic_黑色塞壬女妖",
       "id": "6c48a",

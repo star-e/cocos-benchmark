@@ -309,9 +309,7 @@
       }
     ],
     "_visFlags": 0,
-    "lightmapSettings": {
-      "__id__": 8
-    },
+    "lightmapSettings": null,
     "_mesh": {
       "__uuid__": "694da6fa-9c4f-46c3-96f6-357c4ab0aaf5@56f4a"
     },
@@ -320,10 +318,13 @@
     "_id": "",
     "__prefab": {
       "__id__": 9
+    },
+    "bakeSettings": {
+      "__id__": 8
     }
   },
   {
-    "__type__": "cc.ModelLightmapSettings",
+    "__type__": "cc.ModelBakeSettings",
     "texture": null,
     "uvParam": {
       "__type__": "cc.Vec4",
@@ -492,9 +493,7 @@
       }
     ],
     "_visFlags": 0,
-    "lightmapSettings": {
-      "__id__": 17
-    },
+    "lightmapSettings": null,
     "_mesh": {
       "__uuid__": "694da6fa-9c4f-46c3-96f6-357c4ab0aaf5@09509"
     },
@@ -503,10 +502,13 @@
     "_id": "",
     "__prefab": {
       "__id__": 18
+    },
+    "bakeSettings": {
+      "__id__": 17
     }
   },
   {
-    "__type__": "cc.ModelLightmapSettings",
+    "__type__": "cc.ModelBakeSettings",
     "texture": null,
     "uvParam": {
       "__type__": "cc.Vec4",
@@ -675,9 +677,7 @@
       }
     ],
     "_visFlags": 0,
-    "lightmapSettings": {
-      "__id__": 26
-    },
+    "lightmapSettings": null,
     "_mesh": {
       "__uuid__": "694da6fa-9c4f-46c3-96f6-357c4ab0aaf5@ac4af"
     },
@@ -686,10 +686,13 @@
     "_id": "",
     "__prefab": {
       "__id__": 27
+    },
+    "bakeSettings": {
+      "__id__": 26
     }
   },
   {
-    "__type__": "cc.ModelLightmapSettings",
+    "__type__": "cc.ModelBakeSettings",
     "texture": null,
     "uvParam": {
       "__type__": "cc.Vec4",
@@ -858,9 +861,7 @@
       }
     ],
     "_visFlags": 0,
-    "lightmapSettings": {
-      "__id__": 35
-    },
+    "lightmapSettings": null,
     "_mesh": {
       "__uuid__": "694da6fa-9c4f-46c3-96f6-357c4ab0aaf5@c8dc3"
     },
@@ -869,10 +870,13 @@
     "_id": "",
     "__prefab": {
       "__id__": 36
+    },
+    "bakeSettings": {
+      "__id__": 35
     }
   },
   {
-    "__type__": "cc.ModelLightmapSettings",
+    "__type__": "cc.ModelBakeSettings",
     "texture": null,
     "uvParam": {
       "__type__": "cc.Vec4",

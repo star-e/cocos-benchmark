@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.24",
+  "ver": "1.0.27",
   "importer": "image",
   "imported": true,
   "uuid": "0962e892-000a-41db-a913-5b3d5aeb1846",
@@ -27,7 +27,7 @@
         "anisotropy": 1,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "0962e892-000a-41db-a913-5b3d5aeb1846",
-        "visible": true
+        "visible": false
       },
       "displayName": "ic_绿色巫师",
       "id": "6c48a",

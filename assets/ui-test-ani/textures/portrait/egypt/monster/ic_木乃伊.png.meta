@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.24",
+  "ver": "1.0.27",
   "importer": "image",
   "imported": true,
   "uuid": "5e5ef450-0d05-4679-b46c-3187dec13053",
@@ -27,7 +27,7 @@
         "anisotropy": 1,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "5e5ef450-0d05-4679-b46c-3187dec13053",
-        "visible": true
+        "visible": false
       },
       "displayName": "ic_木乃伊",
       "id": "6c48a",

@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.24",
+  "ver": "1.0.27",
   "importer": "image",
   "imported": true,
   "uuid": "ed069d92-1dda-4ee6-b672-51bf2ece0d1a",
@@ -33,7 +33,7 @@
       "subMetas": {}
     },
     "f9941": {
-      "ver": "1.0.11",
+      "ver": "1.0.12",
       "importer": "sprite-frame",
       "uuid": "ed069d92-1dda-4ee6-b672-51bf2ece0d1a@f9941",
       "imported": true,
@@ -134,7 +134,7 @@
   },
   "userData": {
     "type": "sprite-frame",
-    "redirect": "ed069d92-1dda-4ee6-b672-51bf2ece0d1a@f9941",
+    "redirect": "ed069d92-1dda-4ee6-b672-51bf2ece0d1a@6c48a",
     "hasAlpha": true,
     "fixAlphaTransparencyArtifacts": false
   }

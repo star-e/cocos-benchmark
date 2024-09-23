@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.24",
+  "ver": "1.0.27",
   "importer": "image",
   "imported": true,
   "uuid": "9e5b3151-f8f2-45be-9c21-90008431e1bd",
@@ -27,7 +27,7 @@
         "anisotropy": 1,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "9e5b3151-f8f2-45be-9c21-90008431e1bd",
-        "visible": true
+        "visible": false
       },
       "displayName": "murloc_sred",
       "id": "6c48a",

@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.24",
+  "ver": "1.0.27",
   "importer": "image",
   "imported": true,
   "uuid": "cff432bd-6060-4b56-a9b0-6a2f567c2b77",
@@ -27,7 +27,7 @@
         "anisotropy": 1,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "cff432bd-6060-4b56-a9b0-6a2f567c2b77",
-        "visible": true
+        "visible": false
       },
       "displayName": "ic_红色触手",
       "id": "6c48a",

@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.24",
+  "ver": "1.0.27",
   "importer": "image",
   "imported": true,
   "uuid": "537ae89e-82f7-45b5-86da-e6fe8257c86a",
@@ -27,7 +27,7 @@
         "anisotropy": 1,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "537ae89e-82f7-45b5-86da-e6fe8257c86a",
-        "visible": true
+        "visible": false
       },
       "displayName": "ic_棺材",
       "id": "6c48a",

@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.24",
+  "ver": "1.0.27",
   "importer": "image",
   "imported": true,
   "uuid": "994c77ed-dd67-4b0f-95b3-885d43496120",
@@ -27,7 +27,7 @@
         "anisotropy": 1,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "994c77ed-dd67-4b0f-95b3-885d43496120",
-        "visible": true
+        "visible": false
       },
       "displayName": "ic_机械触手",
       "id": "6c48a",

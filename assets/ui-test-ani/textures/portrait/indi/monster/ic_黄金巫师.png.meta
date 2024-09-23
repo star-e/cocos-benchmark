@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.24",
+  "ver": "1.0.27",
   "importer": "image",
   "imported": true,
   "uuid": "8717d999-dd69-41fa-be9d-39d799071e87",
@@ -27,7 +27,7 @@
         "anisotropy": 1,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "8717d999-dd69-41fa-be9d-39d799071e87",
-        "visible": true
+        "visible": false
       },
       "displayName": "ic_黄金巫师",
       "id": "6c48a",

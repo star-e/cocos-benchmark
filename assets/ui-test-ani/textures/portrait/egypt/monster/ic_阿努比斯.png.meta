@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.24",
+  "ver": "1.0.27",
   "importer": "image",
   "imported": true,
   "uuid": "aa0361d5-7feb-4cb9-b6dc-741c5cf6407c",
@@ -27,7 +27,7 @@
         "anisotropy": 1,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "aa0361d5-7feb-4cb9-b6dc-741c5cf6407c",
-        "visible": true
+        "visible": false
       },
       "displayName": "ic_阿努比斯",
       "id": "6c48a",

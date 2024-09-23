@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.24",
+  "ver": "1.0.27",
   "importer": "image",
   "imported": true,
   "uuid": "0edf79a3-2347-4917-b920-4e5f791827ec",
@@ -27,7 +27,7 @@
         "anisotropy": 1,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "0edf79a3-2347-4917-b920-4e5f791827ec",
-        "visible": true
+        "visible": false
       },
       "displayName": "ic_炮台龟",
       "id": "6c48a",

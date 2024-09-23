@@ -1,5 +1,5 @@
 {
-  "ver": "1.1.0",
+  "ver": "1.2.0",
   "importer": "directory",
   "imported": true,
   "uuid": "1b17a419-c4f0-4973-b173-3eae17d082cf",
@@ -9,10 +9,6 @@
     "isBundle": true,
     "bundleName": "resources",
     "priority": 8,
-    "compressionType": {},
-    "isRemoteBundle": {
-      "wechatgame": true,
-      "bytedance-mini-game": true
-    }
+    "bundleConfigID": "auto_982O/BWqlM1oHw4ij+3Bd+"
   }
 }

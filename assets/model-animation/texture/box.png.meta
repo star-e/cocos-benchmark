@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.24",
+  "ver": "1.0.27",
   "importer": "image",
   "imported": true,
   "uuid": "f2095463-4699-4e72-bc7a-4d0e90205bf2",
@@ -39,7 +39,7 @@
       "displayName": "box",
       "id": "f9941",
       "name": "spriteFrame",
-      "ver": "1.0.11",
+      "ver": "1.0.12",
       "imported": true,
       "files": [
         ".json"
@@ -128,7 +128,7 @@
   },
   "userData": {
     "type": "sprite-frame",
-    "redirect": "f2095463-4699-4e72-bc7a-4d0e90205bf2@f9941",
+    "redirect": "f2095463-4699-4e72-bc7a-4d0e90205bf2@6c48a",
     "hasAlpha": true,
     "fixAlphaTransparencyArtifacts": false
   }

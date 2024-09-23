@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.0",
+  "ver": "2.3.13",
   "importer": "fbx",
   "imported": true,
   "uuid": "97856fc0-86c9-4ee5-8625-03b2e5e7af82",
@@ -19,7 +19,10 @@
       ],
       "subMetas": {},
       "userData": {
-        "gltfIndex": 0
+        "gltfIndex": 0,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": false,
+        "type": "texture"
       }
     },
     "7d128": {
@@ -28,7 +31,7 @@
       "displayName": "",
       "id": "7d128",
       "name": "skyBox01.mesh",
-      "ver": "1.1.0",
+      "ver": "1.1.1",
       "imported": true,
       "files": [
         ".bin",
@@ -36,7 +39,8 @@
       ],
       "subMetas": {},
       "userData": {
-        "gltfIndex": 0
+        "gltfIndex": 0,
+        "triangleCount": 18
       }
     },
     "bc797": {
@@ -69,7 +73,7 @@
       "displayName": "",
       "id": "9ba3e",
       "name": "skyBox1.prefab",
-      "ver": "1.0.12",
+      "ver": "1.0.14",
       "imported": true,
       "files": [
         ".json"
@@ -87,7 +91,6 @@
         "uri": "97856fc0-86c9-4ee5-8625-03b2e5e7af82@31667"
       }
     ],
-    "redirect": "97856fc0-86c9-4ee5-8625-03b2e5e7af82@9ba3e",
     "assetFinder": {
       "meshes": [
         "97856fc0-86c9-4ee5-8625-03b2e5e7af82@7d128"
@@ -107,7 +110,26 @@
     "materialDumpDir": "db://assets/model-triangles/skyBox",
     "legacyFbxImporter": true,
     "fbx": {
-      "smartMaterialEnabled": false
+      "smartMaterialEnabled": false,
+      "matchMeshNames": false
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
     }
   }
 }

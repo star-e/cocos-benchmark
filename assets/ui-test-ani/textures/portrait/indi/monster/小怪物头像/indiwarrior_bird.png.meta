@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.24",
+  "ver": "1.0.27",
   "importer": "image",
   "imported": true,
   "uuid": "75295b01-9ff7-400f-a14d-76204bad1971",
@@ -27,7 +27,7 @@
         "anisotropy": 1,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "75295b01-9ff7-400f-a14d-76204bad1971",
-        "visible": true
+        "visible": false
       },
       "displayName": "indiwarrior_bird",
       "id": "6c48a",

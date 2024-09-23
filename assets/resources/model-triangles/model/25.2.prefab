@@ -799,9 +799,7 @@
       }
     ],
     "_visFlags": 0,
-    "lightmapSettings": {
-      "__id__": 21
-    },
+    "lightmapSettings": null,
     "_mesh": {
       "__uuid__": "9f0f841a-0a7c-4d8e-9c24-0e63b1a1c8b3@60b07"
     },
@@ -810,10 +808,13 @@
     "_id": "",
     "__prefab": {
       "__id__": 22
+    },
+    "bakeSettings": {
+      "__id__": 21
     }
   },
   {
-    "__type__": "cc.ModelLightmapSettings",
+    "__type__": "cc.ModelBakeSettings",
     "texture": null,
     "uvParam": {
       "__type__": "cc.Vec4",
@@ -1091,9 +1092,7 @@
       }
     ],
     "_visFlags": 0,
-    "lightmapSettings": {
-      "__id__": 34
-    },
+    "lightmapSettings": null,
     "_mesh": {
       "__uuid__": "9f0f841a-0a7c-4d8e-9c24-0e63b1a1c8b3@e6111"
     },
@@ -1102,10 +1101,13 @@
     "_id": "",
     "__prefab": {
       "__id__": 35
+    },
+    "bakeSettings": {
+      "__id__": 34
     }
   },
   {
-    "__type__": "cc.ModelLightmapSettings",
+    "__type__": "cc.ModelBakeSettings",
     "texture": null,
     "uvParam": {
       "__type__": "cc.Vec4",
@@ -1431,9 +1433,7 @@
       }
     ],
     "_visFlags": 0,
-    "lightmapSettings": {
-      "__id__": 48
-    },
+    "lightmapSettings": null,
     "_mesh": {
       "__uuid__": "9f0f841a-0a7c-4d8e-9c24-0e63b1a1c8b3@28b9d"
     },
@@ -1442,10 +1442,13 @@
     "_id": "",
     "__prefab": {
       "__id__": 49
+    },
+    "bakeSettings": {
+      "__id__": 48
     }
   },
   {
-    "__type__": "cc.ModelLightmapSettings",
+    "__type__": "cc.ModelBakeSettings",
     "texture": null,
     "uvParam": {
       "__type__": "cc.Vec4",
@@ -1624,9 +1627,7 @@
       }
     ],
     "_visFlags": 0,
-    "lightmapSettings": {
-      "__id__": 58
-    },
+    "lightmapSettings": null,
     "_mesh": {
       "__uuid__": "9f0f841a-0a7c-4d8e-9c24-0e63b1a1c8b3@16a63"
     },
@@ -1635,10 +1636,13 @@
     "_id": "",
     "__prefab": {
       "__id__": 59
+    },
+    "bakeSettings": {
+      "__id__": 58
     }
   },
   {
-    "__type__": "cc.ModelLightmapSettings",
+    "__type__": "cc.ModelBakeSettings",
     "texture": null,
     "uvParam": {
       "__type__": "cc.Vec4",
@@ -1964,9 +1968,7 @@
       }
     ],
     "_visFlags": 0,
-    "lightmapSettings": {
-      "__id__": 72
-    },
+    "lightmapSettings": null,
     "_mesh": {
       "__uuid__": "9f0f841a-0a7c-4d8e-9c24-0e63b1a1c8b3@cb2d2"
     },
@@ -1975,10 +1977,13 @@
     "_id": "",
     "__prefab": {
       "__id__": 73
+    },
+    "bakeSettings": {
+      "__id__": 72
     }
   },
   {
-    "__type__": "cc.ModelLightmapSettings",
+    "__type__": "cc.ModelBakeSettings",
     "texture": null,
     "uvParam": {
       "__type__": "cc.Vec4",
@@ -2157,9 +2162,7 @@
       }
     ],
     "_visFlags": 0,
-    "lightmapSettings": {
-      "__id__": 82
-    },
+    "lightmapSettings": null,
     "_mesh": {
       "__uuid__": "9f0f841a-0a7c-4d8e-9c24-0e63b1a1c8b3@45c61"
     },
@@ -2168,10 +2171,13 @@
     "_id": "",
     "__prefab": {
       "__id__": 83
+    },
+    "bakeSettings": {
+      "__id__": 82
     }
   },
   {
-    "__type__": "cc.ModelLightmapSettings",
+    "__type__": "cc.ModelBakeSettings",
     "texture": null,
     "uvParam": {
       "__type__": "cc.Vec4",
@@ -2449,9 +2455,7 @@
       }
     ],
     "_visFlags": 0,
-    "lightmapSettings": {
-      "__id__": 95
-    },
+    "lightmapSettings": null,
     "_mesh": {
       "__uuid__": "9f0f841a-0a7c-4d8e-9c24-0e63b1a1c8b3@28f18"
     },
@@ -2460,10 +2464,13 @@
     "_id": "",
     "__prefab": {
       "__id__": 96
+    },
+    "bakeSettings": {
+      "__id__": 95
     }
   },
   {
-    "__type__": "cc.ModelLightmapSettings",
+    "__type__": "cc.ModelBakeSettings",
     "texture": null,
     "uvParam": {
       "__type__": "cc.Vec4",
@@ -2741,9 +2748,7 @@
       }
     ],
     "_visFlags": 0,
-    "lightmapSettings": {
-      "__id__": 108
-    },
+    "lightmapSettings": null,
     "_mesh": {
       "__uuid__": "9f0f841a-0a7c-4d8e-9c24-0e63b1a1c8b3@8548b"
     },
@@ -2752,10 +2757,13 @@
     "_id": "",
     "__prefab": {
       "__id__": 109
+    },
+    "bakeSettings": {
+      "__id__": 108
     }
   },
   {
-    "__type__": "cc.ModelLightmapSettings",
+    "__type__": "cc.ModelBakeSettings",
     "texture": null,
     "uvParam": {
       "__type__": "cc.Vec4",
@@ -3033,9 +3041,7 @@
       }
     ],
     "_visFlags": 0,
-    "lightmapSettings": {
-      "__id__": 121
-    },
+    "lightmapSettings": null,
     "_mesh": {
       "__uuid__": "9f0f841a-0a7c-4d8e-9c24-0e63b1a1c8b3@26af2"
     },
@@ -3044,10 +3050,13 @@
     "_id": "",
     "__prefab": {
       "__id__": 122
+    },
+    "bakeSettings": {
+      "__id__": 121
     }
   },
   {
-    "__type__": "cc.ModelLightmapSettings",
+    "__type__": "cc.ModelBakeSettings",
     "texture": null,
     "uvParam": {
       "__type__": "cc.Vec4",
@@ -3226,9 +3235,7 @@
       }
     ],
     "_visFlags": 0,
-    "lightmapSettings": {
-      "__id__": 131
-    },
+    "lightmapSettings": null,
     "_mesh": {
       "__uuid__": "9f0f841a-0a7c-4d8e-9c24-0e63b1a1c8b3@7345c"
     },
@@ -3237,10 +3244,13 @@
     "_id": "",
     "__prefab": {
       "__id__": 132
+    },
+    "bakeSettings": {
+      "__id__": 131
     }
   },
   {
-    "__type__": "cc.ModelLightmapSettings",
+    "__type__": "cc.ModelBakeSettings",
     "texture": null,
     "uvParam": {
       "__type__": "cc.Vec4",

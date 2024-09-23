@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.24",
+  "ver": "1.0.27",
   "importer": "image",
   "imported": true,
   "uuid": "fabee200-7d97-4e2a-b1fd-7c3bd598d09d",
@@ -27,7 +27,7 @@
         "anisotropy": 1,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "fabee200-7d97-4e2a-b1fd-7c3bd598d09d",
-        "visible": true
+        "visible": false
       },
       "displayName": "ic_木乃伊变色",
       "id": "6c48a",

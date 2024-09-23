@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.24",
+  "ver": "1.0.27",
   "importer": "image",
   "imported": true,
   "uuid": "3feec15d-53c0-455d-95a8-8846bec2ebd9",
@@ -27,7 +27,7 @@
         "anisotropy": 1,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "3feec15d-53c0-455d-95a8-8846bec2ebd9",
-        "visible": true
+        "visible": false
       },
       "displayName": "ic_generalshark",
       "id": "6c48a",

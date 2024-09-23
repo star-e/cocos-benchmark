@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.24",
+  "ver": "1.0.27",
   "importer": "image",
   "imported": true,
   "uuid": "a652218b-60e2-4522-a484-db700fea9043",
@@ -27,7 +27,7 @@
         "anisotropy": 1,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "a652218b-60e2-4522-a484-db700fea9043",
-        "visible": true
+        "visible": false
       },
       "displayName": "ic_蓝炮台龟",
       "id": "6c48a",

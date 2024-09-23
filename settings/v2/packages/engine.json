@@ -1,11 +1,8 @@
 {
-  "__version__": "1.0.6",
+  "__version__": "1.0.10",
   "modules": {
     "cache": {
       "base": {
-        "_value": true
-      },
-      "graphcis": {
         "_value": true
       },
       "gfx-webgl": {
@@ -87,6 +84,21 @@
       },
       "dragon-bones": {
         "_value": true
+      },
+      "animation": {
+        "_value": true
+      },
+      "skeletal-animation": {
+        "_value": true
+      },
+      "marionette": {
+        "_value": true
+      },
+      "graphics": {
+        "_value": true
+      },
+      "render-pipeline": {
+        "_option": "custom-pipeline"
       }
     },
     "includeModules": [
@@ -97,14 +109,18 @@
       "dragon-bones",
       "gfx-webgl",
       "gfx-webgl2",
+      "light-probe",
       "marionette",
       "particle",
+      "physics-ammo",
       "primitive",
       "profiler",
       "skeletal-animation",
       "spine",
       "tween",
-      "ui"
+      "ui",
+      "websocket",
+      "custom-pipeline"
     ],
     "noDeprecatedFeatures": {
       "value": false,

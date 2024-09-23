@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.0",
+  "ver": "2.3.13",
   "importer": "fbx",
   "imported": true,
   "uuid": "6669e9a9-9d0a-40b3-91e3-a4de4acdcb18",
@@ -12,9 +12,10 @@
       "id": "6b9ac",
       "name": "FX_Mod_PiaoDai002.mesh",
       "userData": {
-        "gltfIndex": 0
+        "gltfIndex": 0,
+        "triangleCount": 40
       },
-      "ver": "1.1.0",
+      "ver": "1.1.1",
       "imported": true,
       "files": [
         ".bin",
@@ -47,7 +48,7 @@
       "userData": {
         "gltfIndex": 0
       },
-      "ver": "1.0.12",
+      "ver": "1.0.14",
       "imported": true,
       "files": [
         ".json"
@@ -58,7 +59,6 @@
   "userData": {
     "imageMetas": [],
     "legacyFbxImporter": true,
-    "redirect": "6669e9a9-9d0a-40b3-91e3-a4de4acdcb18@34ab2",
     "assetFinder": {
       "meshes": [
         "6669e9a9-9d0a-40b3-91e3-a4de4acdcb18@6b9ac"
@@ -75,7 +75,26 @@
     "useVertexColors": false,
     "disableMeshSplit": true,
     "fbx": {
-      "smartMaterialEnabled": false
+      "smartMaterialEnabled": false,
+      "matchMeshNames": false
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
     }
   }
 }

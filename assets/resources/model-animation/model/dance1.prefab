@@ -3909,7 +3909,7 @@
     }
   },
   {
-    "__type__": "cc.ModelLightmapSettings",
+    "__type__": "cc.ModelBakeSettings",
     "texture": null,
     "uvParam": {
       "__type__": "cc.Vec4",
@@ -4051,9 +4051,7 @@
       }
     ],
     "_visFlags": 0,
-    "lightmapSettings": {
-      "__id__": 148
-    },
+    "lightmapSettings": null,
     "_mesh": {
       "__uuid__": "a0b17fba-bcf9-4bc3-9b02-15321efc0259@46540"
     },
@@ -4062,10 +4060,13 @@
     "_id": "",
     "__prefab": {
       "__id__": 149
+    },
+    "bakeSettings": {
+      "__id__": 148
     }
   },
   {
-    "__type__": "cc.ModelLightmapSettings",
+    "__type__": "cc.ModelBakeSettings",
     "texture": null,
     "uvParam": {
       "__type__": "cc.Vec4",

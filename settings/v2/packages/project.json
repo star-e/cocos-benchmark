@@ -1,5 +1,5 @@
 {
-  "__version__": "1.0.2",
+  "__version__": "1.0.6",
   "layer": [
     {
       "name": "canvas_17",
@@ -43,5 +43,8 @@
     "legacyFbxImporter": {
       "visible": true
     }
+  },
+  "script": {
+    "preserveSymlinks": true
   }
 }

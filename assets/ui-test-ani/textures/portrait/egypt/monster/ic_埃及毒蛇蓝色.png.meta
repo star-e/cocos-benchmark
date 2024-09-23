@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.24",
+  "ver": "1.0.27",
   "importer": "image",
   "imported": true,
   "uuid": "8a6ce7e1-306a-48ce-8e4d-f01fa6407107",
@@ -27,7 +27,7 @@
         "anisotropy": 1,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "8a6ce7e1-306a-48ce-8e4d-f01fa6407107",
-        "visible": true
+        "visible": false
       },
       "displayName": "ic_埃及毒蛇蓝色",
       "id": "6c48a",

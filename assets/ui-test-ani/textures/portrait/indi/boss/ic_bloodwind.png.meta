@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.24",
+  "ver": "1.0.27",
   "importer": "image",
   "imported": true,
   "uuid": "8363299a-f02f-4d07-922a-8e71ad21fbf7",
@@ -27,7 +27,7 @@
         "anisotropy": 1,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "8363299a-f02f-4d07-922a-8e71ad21fbf7",
-        "visible": true
+        "visible": false
       },
       "displayName": "ic_bloodwind",
       "id": "6c48a",

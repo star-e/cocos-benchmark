@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.24",
+  "ver": "1.0.27",
   "importer": "image",
   "imported": true,
   "uuid": "9cc45a22-3309-44e8-8957-b47bed3716bb",
@@ -39,7 +39,7 @@
       "displayName": "resetEn",
       "id": "f9941",
       "name": "spriteFrame",
-      "ver": "1.0.11",
+      "ver": "1.0.12",
       "imported": true,
       "files": [
         ".json"
@@ -128,7 +128,7 @@
   },
   "userData": {
     "type": "sprite-frame",
-    "redirect": "9cc45a22-3309-44e8-8957-b47bed3716bb@f9941",
+    "redirect": "9cc45a22-3309-44e8-8957-b47bed3716bb@6c48a",
     "hasAlpha": true,
     "fixAlphaTransparencyArtifacts": false
   }

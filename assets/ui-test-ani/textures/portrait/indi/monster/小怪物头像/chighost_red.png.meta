@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.24",
+  "ver": "1.0.27",
   "importer": "image",
   "imported": true,
   "uuid": "61be97e9-e64a-4160-b5c7-d3927ccda60c",
@@ -27,7 +27,7 @@
         "anisotropy": 1,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "61be97e9-e64a-4160-b5c7-d3927ccda60c",
-        "visible": true
+        "visible": false
       },
       "displayName": "chighost_red",
       "id": "6c48a",

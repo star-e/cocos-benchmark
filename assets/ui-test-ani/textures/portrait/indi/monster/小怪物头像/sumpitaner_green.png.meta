@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.24",
+  "ver": "1.0.27",
   "importer": "image",
   "imported": true,
   "uuid": "350ed75a-0ccf-4bc1-9f2a-e96091039393",
@@ -27,7 +27,7 @@
         "anisotropy": 1,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "350ed75a-0ccf-4bc1-9f2a-e96091039393",
-        "visible": true
+        "visible": false
       },
       "displayName": "sumpitaner_green",
       "id": "6c48a",

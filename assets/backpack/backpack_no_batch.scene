@@ -1,7 +1,7 @@
 [
   {
     "__type__": "cc.SceneAsset",
-    "_name": "",
+    "_name": "backpack_no_batch",
     "_objFlags": 0,
     "_native": "",
     "scene": {
@@ -2305,7 +2305,6 @@
     "_type": 0,
     "_inverted": false,
     "_segments": 64,
-    "_spriteFrame": null,
     "_alphaThreshold": 0.1,
     "_id": "6czgqIZn1CaJ2cs+jOS6Zs"
   },

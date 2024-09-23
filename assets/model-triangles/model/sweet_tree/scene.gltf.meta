@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.0",
+  "ver": "2.3.13",
   "importer": "gltf",
   "imported": true,
   "uuid": "97c9c32c-c089-4a8e-9198-025c28bd582b",
@@ -11,7 +11,7 @@
       "displayName": "",
       "id": "bddda",
       "name": "tree_Base_0.mesh",
-      "ver": "1.1.0",
+      "ver": "1.1.1",
       "imported": true,
       "files": [
         ".bin",
@@ -19,7 +19,8 @@
       ],
       "subMetas": {},
       "userData": {
-        "gltfIndex": 0
+        "gltfIndex": 0,
+        "triangleCount": 7360
       }
     },
     "07356": {
@@ -28,7 +29,7 @@
       "displayName": "",
       "id": "07356",
       "name": "leaves_Leaves_0.mesh",
-      "ver": "1.1.0",
+      "ver": "1.1.1",
       "imported": true,
       "files": [
         ".bin",
@@ -36,7 +37,8 @@
       ],
       "subMetas": {},
       "userData": {
-        "gltfIndex": 1
+        "gltfIndex": 1,
+        "triangleCount": 3550
       }
     },
     "e39f7": {
@@ -69,7 +71,7 @@
       "displayName": "",
       "id": "d1932",
       "name": "scene.prefab",
-      "ver": "1.0.12",
+      "ver": "1.0.14",
       "imported": true,
       "files": [
         ".json"
@@ -86,7 +88,6 @@
         "uri": "db://assets/model-triangles/model/sweet_tree/textures/Leaves_baseColor.png"
       }
     ],
-    "redirect": "97c9c32c-c089-4a8e-9198-025c28bd582b@d1932",
     "assetFinder": {
       "meshes": [
         "97c9c32c-c089-4a8e-9198-025c28bd582b@bddda",
@@ -105,6 +106,24 @@
       ]
     },
     "dumpMaterials": true,
-    "materialDumpDir": "db://assets/model-triangles/model/sweet_tree/Materials_scene"
+    "materialDumpDir": "db://assets/model-triangles/model/sweet_tree/Materials_scene",
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
   }
 }

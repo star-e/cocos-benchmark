@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.24",
+  "ver": "1.0.27",
   "importer": "image",
   "imported": true,
   "uuid": "948fea77-f4e6-4d5f-87b3-dd666aec75c1",
@@ -27,7 +27,7 @@
         "anisotropy": 1,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "948fea77-f4e6-4d5f-87b3-dd666aec75c1",
-        "visible": true
+        "visible": false
       },
       "displayName": "ic_shadomummy",
       "id": "6c48a",

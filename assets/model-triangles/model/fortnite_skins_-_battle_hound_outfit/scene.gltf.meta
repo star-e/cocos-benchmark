@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.0",
+  "ver": "2.3.13",
   "importer": "gltf",
   "imported": true,
   "uuid": "647edadb-b17b-4ffb-bf36-dc67502c39c8",
@@ -28,7 +28,7 @@
       "displayName": "",
       "id": "82371",
       "name": "UnnamedMesh-1.mesh",
-      "ver": "1.1.0",
+      "ver": "1.1.1",
       "imported": true,
       "files": [
         ".bin",
@@ -36,7 +36,8 @@
       ],
       "subMetas": {},
       "userData": {
-        "gltfIndex": 1
+        "gltfIndex": 1,
+        "triangleCount": 692
       }
     },
     "057cb": {
@@ -45,7 +46,7 @@
       "displayName": "",
       "id": "057cb",
       "name": "UnnamedMesh-0.mesh",
-      "ver": "1.1.0",
+      "ver": "1.1.1",
       "imported": true,
       "files": [
         ".bin",
@@ -53,7 +54,8 @@
       ],
       "subMetas": {},
       "userData": {
-        "gltfIndex": 0
+        "gltfIndex": 0,
+        "triangleCount": 13444
       }
     },
     "d114a": {
@@ -62,7 +64,7 @@
       "displayName": "",
       "id": "d114a",
       "name": "UnnamedMesh-2.mesh",
-      "ver": "1.1.0",
+      "ver": "1.1.1",
       "imported": true,
       "files": [
         ".bin",
@@ -70,7 +72,8 @@
       ],
       "subMetas": {},
       "userData": {
-        "gltfIndex": 2
+        "gltfIndex": 2,
+        "triangleCount": 5622
       }
     },
     "f1394": {
@@ -216,7 +219,7 @@
       "displayName": "",
       "id": "d1932",
       "name": "scene.prefab",
-      "ver": "1.0.12",
+      "ver": "1.0.14",
       "imported": true,
       "files": [
         ".json"
@@ -245,7 +248,6 @@
         "uri": "db://assets/model-triangles/model/fortnite_skins_-_battle_hound_outfit/textures/M_Med_CuChulainn_Hat_emissive.png"
       }
     ],
-    "redirect": "647edadb-b17b-4ffb-bf36-dc67502c39c8@d1932",
     "assetFinder": {
       "meshes": [
         "647edadb-b17b-4ffb-bf36-dc67502c39c8@057cb",
@@ -272,6 +274,24 @@
       ]
     },
     "dumpMaterials": true,
-    "materialDumpDir": "db://assets/model-triangles/model/fortnite_skins_-_battle_hound_outfit/Materials_scene"
+    "materialDumpDir": "db://assets/model-triangles/model/fortnite_skins_-_battle_hound_outfit/Materials_scene",
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
   }
 }

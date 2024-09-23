@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.24",
+  "ver": "1.0.27",
   "importer": "image",
   "imported": true,
   "uuid": "32215987-27e7-4a2b-bcf6-9b521c82714d",
@@ -27,7 +27,7 @@
         "anisotropy": 1,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "32215987-27e7-4a2b-bcf6-9b521c82714d",
-        "visible": true
+        "visible": false
       },
       "displayName": "chighost_armour",
       "id": "6c48a",

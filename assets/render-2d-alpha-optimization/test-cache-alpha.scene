@@ -1,7 +1,7 @@
 [
   {
     "__type__": "cc.SceneAsset",
-    "_name": "",
+    "_name": "test-cache-alpha",
     "_objFlags": 0,
     "_native": "",
     "scene": {
@@ -33,7 +33,7 @@
     "_globals": {
       "__id__": 36
     },
-    "_id": "bd5552ee-07c3-46fc-9aa4-910f0f820c40"
+    "_id": "221f511b-6b9d-45d4-afe4-6e626dfa81e3"
   },
   {
     "__type__": "cc.Node",

@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.0",
+  "ver": "2.3.13",
   "importer": "gltf",
   "imported": true,
   "uuid": "9f0f841a-0a7c-4d8e-9c24-0e63b1a1c8b3",
@@ -13,7 +13,7 @@
       "displayName": "",
       "id": "60b07",
       "name": "VentMain_Test_0.mesh",
-      "ver": "1.1.0",
+      "ver": "1.1.1",
       "imported": true,
       "files": [
         ".bin",
@@ -21,7 +21,8 @@
       ],
       "subMetas": {},
       "userData": {
-        "gltfIndex": 0
+        "gltfIndex": 0,
+        "triangleCount": 2520
       }
     },
     "e6111": {
@@ -30,7 +31,7 @@
       "displayName": "",
       "id": "e6111",
       "name": "VentSub_Test_0.mesh",
-      "ver": "1.1.0",
+      "ver": "1.1.1",
       "imported": true,
       "files": [
         ".bin",
@@ -38,7 +39,8 @@
       ],
       "subMetas": {},
       "userData": {
-        "gltfIndex": 1
+        "gltfIndex": 1,
+        "triangleCount": 2520
       }
     },
     "28b9d": {
@@ -47,7 +49,7 @@
       "displayName": "",
       "id": "28b9d",
       "name": "FlapRight_Test_0.mesh",
-      "ver": "1.1.0",
+      "ver": "1.1.1",
       "imported": true,
       "files": [
         ".bin",
@@ -55,7 +57,8 @@
       ],
       "subMetas": {},
       "userData": {
-        "gltfIndex": 2
+        "gltfIndex": 2,
+        "triangleCount": 44
       }
     },
     "16a63": {
@@ -64,7 +67,7 @@
       "displayName": "",
       "id": "16a63",
       "name": "WingRight_Test_0.mesh",
-      "ver": "1.1.0",
+      "ver": "1.1.1",
       "imported": true,
       "files": [
         ".bin",
@@ -72,7 +75,8 @@
       ],
       "subMetas": {},
       "userData": {
-        "gltfIndex": 3
+        "gltfIndex": 3,
+        "triangleCount": 592
       }
     },
     "cb2d2": {
@@ -81,7 +85,7 @@
       "displayName": "",
       "id": "cb2d2",
       "name": "FlapLeft_Test_0.mesh",
-      "ver": "1.1.0",
+      "ver": "1.1.1",
       "imported": true,
       "files": [
         ".bin",
@@ -89,7 +93,8 @@
       ],
       "subMetas": {},
       "userData": {
-        "gltfIndex": 4
+        "gltfIndex": 4,
+        "triangleCount": 44
       }
     },
     "45c61": {
@@ -98,7 +103,7 @@
       "displayName": "",
       "id": "45c61",
       "name": "WingLeft_Test_0.mesh",
-      "ver": "1.1.0",
+      "ver": "1.1.1",
       "imported": true,
       "files": [
         ".bin",
@@ -106,7 +111,8 @@
       ],
       "subMetas": {},
       "userData": {
-        "gltfIndex": 5
+        "gltfIndex": 5,
+        "triangleCount": 592
       }
     },
     "28f18": {
@@ -115,7 +121,7 @@
       "displayName": "",
       "id": "28f18",
       "name": "SwitchRight_Test_0.mesh",
-      "ver": "1.1.0",
+      "ver": "1.1.1",
       "imported": true,
       "files": [
         ".bin",
@@ -123,7 +129,8 @@
       ],
       "subMetas": {},
       "userData": {
-        "gltfIndex": 6
+        "gltfIndex": 6,
+        "triangleCount": 84
       }
     },
     "8548b": {
@@ -132,7 +139,7 @@
       "displayName": "",
       "id": "8548b",
       "name": "SwitchLeft_Test_0.mesh",
-      "ver": "1.1.0",
+      "ver": "1.1.1",
       "imported": true,
       "files": [
         ".bin",
@@ -140,7 +147,8 @@
       ],
       "subMetas": {},
       "userData": {
-        "gltfIndex": 7
+        "gltfIndex": 7,
+        "triangleCount": 84
       }
     },
     "26af2": {
@@ -149,7 +157,7 @@
       "displayName": "",
       "id": "26af2",
       "name": "WingMain_Test_0.mesh",
-      "ver": "1.1.0",
+      "ver": "1.1.1",
       "imported": true,
       "files": [
         ".bin",
@@ -157,7 +165,8 @@
       ],
       "subMetas": {},
       "userData": {
-        "gltfIndex": 8
+        "gltfIndex": 8,
+        "triangleCount": 466
       }
     },
     "7345c": {
@@ -166,7 +175,7 @@
       "displayName": "",
       "id": "7345c",
       "name": "Bike_Test_0.mesh",
-      "ver": "1.1.0",
+      "ver": "1.1.1",
       "imported": true,
       "files": [
         ".bin",
@@ -174,7 +183,8 @@
       ],
       "subMetas": {},
       "userData": {
-        "gltfIndex": 9
+        "gltfIndex": 9,
+        "triangleCount": 18300
       }
     },
     "bef90": {
@@ -183,7 +193,7 @@
       "displayName": "",
       "id": "bef90",
       "name": "Armature|Idle.animation",
-      "ver": "1.0.16",
+      "ver": "1.0.17",
       "imported": true,
       "files": [
         ".cconb"
@@ -319,7 +329,7 @@
       "displayName": "",
       "id": "d1932",
       "name": "scene.prefab",
-      "ver": "1.0.12",
+      "ver": "1.0.14",
       "imported": true,
       "files": [
         ".json"
@@ -355,12 +365,12 @@
             "name": "Armature|Idle",
             "from": 0,
             "to": 1.9666666984558105,
-            "wrapMode": 2
+            "wrapMode": 2,
+            "previousId": "bef90"
           }
         ]
       }
     ],
-    "redirect": "9f0f841a-0a7c-4d8e-9c24-0e63b1a1c8b3@d1932",
     "assetFinder": {
       "meshes": [
         "9f0f841a-0a7c-4d8e-9c24-0e63b1a1c8b3@60b07",
@@ -391,6 +401,24 @@
       ]
     },
     "dumpMaterials": true,
-    "materialDumpDir": "db://assets/model-triangles/model/hover_bike_-_the_rocket/Materials_scene"
+    "materialDumpDir": "db://assets/model-triangles/model/hover_bike_-_the_rocket/Materials_scene",
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.24",
+  "ver": "1.0.27",
   "importer": "image",
   "imported": true,
   "uuid": "2905f95f-bb6a-4a57-ae9a-0f50912b115c",
@@ -27,7 +27,7 @@
         "anisotropy": 1,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "2905f95f-bb6a-4a57-ae9a-0f50912b115c",
-        "visible": true
+        "visible": false
       },
       "displayName": "ic_绿色巨型蜘蛛",
       "id": "6c48a",

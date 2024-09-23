@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.0",
+  "ver": "2.3.13",
   "importer": "gltf",
   "imported": true,
   "uuid": "48b1ef87-f613-4387-b6c1-481599e812b2",
@@ -43,7 +43,10 @@
       ],
       "subMetas": {},
       "userData": {
-        "gltfIndex": 2
+        "gltfIndex": 2,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": false,
+        "type": "texture"
       }
     },
     "72704": {
@@ -52,7 +55,7 @@
       "displayName": "",
       "id": "72704",
       "name": "cocosfinish_02.mesh",
-      "ver": "1.1.0",
+      "ver": "1.1.1",
       "imported": true,
       "files": [
         ".bin",
@@ -60,7 +63,8 @@
       ],
       "subMetas": {},
       "userData": {
-        "gltfIndex": 1
+        "gltfIndex": 1,
+        "triangleCount": 304
       }
     },
     "a865e": {
@@ -69,7 +73,7 @@
       "displayName": "",
       "id": "a865e",
       "name": "cocosfinish_01.mesh",
-      "ver": "1.1.0",
+      "ver": "1.1.1",
       "imported": true,
       "files": [
         ".bin",
@@ -77,7 +81,8 @@
       ],
       "subMetas": {},
       "userData": {
-        "gltfIndex": 0
+        "gltfIndex": 0,
+        "triangleCount": 5873
       }
     },
     "3dd56": {
@@ -94,7 +99,10 @@
       ],
       "subMetas": {},
       "userData": {
-        "gltfIndex": 0
+        "gltfIndex": 0,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": false,
+        "type": "texture"
       }
     },
     "e6ff4": {
@@ -111,7 +119,10 @@
       ],
       "subMetas": {},
       "userData": {
-        "gltfIndex": 1
+        "gltfIndex": 1,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": false,
+        "type": "texture"
       }
     },
     "fb88e": {
@@ -128,7 +139,10 @@
       ],
       "subMetas": {},
       "userData": {
-        "gltfIndex": 3
+        "gltfIndex": 3,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": false,
+        "type": "texture"
       }
     },
     "9739b": {
@@ -145,7 +159,10 @@
       ],
       "subMetas": {},
       "userData": {
-        "gltfIndex": 4
+        "gltfIndex": 4,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": true,
+        "type": "texture"
       }
     },
     "932e8": {
@@ -162,7 +179,10 @@
       ],
       "subMetas": {},
       "userData": {
-        "gltfIndex": 5
+        "gltfIndex": 5,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": false,
+        "type": "texture"
       }
     },
     "5800d": {
@@ -179,7 +199,10 @@
       ],
       "subMetas": {},
       "userData": {
-        "gltfIndex": 6
+        "gltfIndex": 6,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": false,
+        "type": "texture"
       }
     },
     "3effa": {
@@ -364,7 +387,7 @@
       "displayName": "",
       "id": "cacb8",
       "name": "cocosfinish.prefab",
-      "ver": "1.0.12",
+      "ver": "1.0.14",
       "imported": true,
       "files": [
         ".json"
@@ -399,7 +422,6 @@
         "uri": "48b1ef87-f613-4387-b6c1-481599e812b2@5800d"
       }
     ],
-    "redirect": "48b1ef87-f613-4387-b6c1-481599e812b2@cacb8",
     "assetFinder": {
       "meshes": [
         "48b1ef87-f613-4387-b6c1-481599e812b2@a865e",
@@ -421,6 +443,24 @@
       ],
       "scenes": [
         "48b1ef87-f613-4387-b6c1-481599e812b2@cacb8"
+      ]
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
       ]
     }
   }

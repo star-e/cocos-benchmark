@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.24",
+  "ver": "1.0.27",
   "importer": "image",
   "imported": true,
   "uuid": "725c78bb-1301-4091-8192-ab45ba6ec38a",
@@ -27,7 +27,7 @@
         "anisotropy": 1,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "725c78bb-1301-4091-8192-ab45ba6ec38a",
-        "visible": true
+        "visible": false
       },
       "displayName": "ic_长矛兵白色",
       "id": "6c48a",

@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.24",
+  "ver": "1.0.27",
   "importer": "image",
   "imported": true,
   "uuid": "997f24d5-cf51-49b7-952a-694f61925c4d",
@@ -39,7 +39,7 @@
       "displayName": "font01",
       "id": "f9941",
       "name": "spriteFrame",
-      "ver": "1.0.11",
+      "ver": "1.0.12",
       "imported": true,
       "files": [
         ".json"
@@ -128,7 +128,7 @@
   },
   "userData": {
     "type": "sprite-frame",
-    "redirect": "997f24d5-cf51-49b7-952a-694f61925c4d@f9941",
+    "redirect": "997f24d5-cf51-49b7-952a-694f61925c4d@6c48a",
     "hasAlpha": true,
     "fixAlphaTransparencyArtifacts": false
   }

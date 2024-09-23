@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.24",
+  "ver": "1.0.27",
   "importer": "image",
   "imported": true,
   "uuid": "27a7a280-38d9-496a-8b4a-676d029d9cff",
@@ -27,7 +27,7 @@
         "anisotropy": 1,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "27a7a280-38d9-496a-8b4a-676d029d9cff",
-        "visible": true
+        "visible": false
       },
       "displayName": "ic_棺材变色",
       "id": "6c48a",

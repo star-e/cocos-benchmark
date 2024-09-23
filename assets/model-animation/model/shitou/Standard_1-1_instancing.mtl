@@ -36,7 +36,9 @@
       "mainTexture": {
         "__uuid__": "d3536c19-97a7-4c80-a299-12fd5c6d2f05@6c48a",
         "__expectedType__": "cc.Texture2D"
-      }
+      },
+      "roughness": 0.8,
+      "metallic": 0.6
     },
     {},
     {},

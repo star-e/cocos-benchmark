@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.24",
+  "ver": "1.0.27",
   "importer": "image",
   "imported": true,
   "uuid": "55934db1-5983-4c9d-9b77-4e254719c370",
@@ -27,7 +27,7 @@
         "anisotropy": 1,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "55934db1-5983-4c9d-9b77-4e254719c370",
-        "visible": true
+        "visible": false
       },
       "displayName": "ic_绿色大螃蟹",
       "id": "6c48a",

@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.24",
+  "ver": "1.0.27",
   "importer": "image",
   "imported": true,
   "uuid": "4b976905-0906-4a69-8697-d0055a6769c3",
@@ -27,7 +27,7 @@
         "anisotropy": 1,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "4b976905-0906-4a69-8697-d0055a6769c3",
-        "visible": true
+        "visible": false
       },
       "displayName": "ic_土著战士",
       "id": "6c48a",

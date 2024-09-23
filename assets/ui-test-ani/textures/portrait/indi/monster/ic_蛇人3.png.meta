@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.24",
+  "ver": "1.0.27",
   "importer": "image",
   "imported": true,
   "uuid": "8de61f5c-33ec-4a35-85a9-039805115c13",
@@ -27,7 +27,7 @@
         "anisotropy": 1,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "8de61f5c-33ec-4a35-85a9-039805115c13",
-        "visible": true
+        "visible": false
       },
       "displayName": "ic_蛇人3",
       "id": "6c48a",

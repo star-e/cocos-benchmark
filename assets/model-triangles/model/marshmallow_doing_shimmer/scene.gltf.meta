@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.0",
+  "ver": "2.3.13",
   "importer": "gltf",
   "imported": true,
   "uuid": "900996a8-07d8-4115-8643-d76eee0a9baa",
@@ -30,7 +30,7 @@
       "displayName": "",
       "id": "709d0",
       "name": "M_MED_Marshmellow_DJ.mo-0.mesh",
-      "ver": "1.1.0",
+      "ver": "1.1.1",
       "imported": true,
       "files": [
         ".bin",
@@ -38,7 +38,8 @@
       ],
       "subMetas": {},
       "userData": {
-        "gltfIndex": 0
+        "gltfIndex": 0,
+        "triangleCount": 2464
       }
     },
     "235da": {
@@ -47,7 +48,7 @@
       "displayName": "",
       "id": "235da",
       "name": "M_MED_Marshmellow_DJ.mo-1.mesh",
-      "ver": "1.1.0",
+      "ver": "1.1.1",
       "imported": true,
       "files": [
         ".bin",
@@ -55,7 +56,8 @@
       ],
       "subMetas": {},
       "userData": {
-        "gltfIndex": 1
+        "gltfIndex": 1,
+        "triangleCount": 10128
       }
     },
     "a412e": {
@@ -64,7 +66,7 @@
       "displayName": "",
       "id": "a412e",
       "name": "M_MED_Marshmallow_DJ_FaceAcc.mo-2.mesh",
-      "ver": "1.1.0",
+      "ver": "1.1.1",
       "imported": true,
       "files": [
         ".bin",
@@ -72,7 +74,8 @@
       ],
       "subMetas": {},
       "userData": {
-        "gltfIndex": 2
+        "gltfIndex": 2,
+        "triangleCount": 2218
       }
     },
     "e29b9": {
@@ -81,7 +84,7 @@
       "displayName": "",
       "id": "e29b9",
       "name": "Take 01.animation",
-      "ver": "1.0.16",
+      "ver": "1.0.17",
       "imported": true,
       "files": [
         ".cconb"
@@ -193,7 +196,7 @@
       "displayName": "",
       "id": "d1932",
       "name": "scene.prefab",
-      "ver": "1.0.12",
+      "ver": "1.0.14",
       "imported": true,
       "files": [
         ".json"
@@ -226,12 +229,12 @@
             "name": "Take 01",
             "from": 0,
             "to": 7.666669845581055,
-            "wrapMode": 2
+            "wrapMode": 2,
+            "previousId": "e29b9"
           }
         ]
       }
     ],
-    "redirect": "900996a8-07d8-4115-8643-d76eee0a9baa@d1932",
     "assetFinder": {
       "meshes": [
         "900996a8-07d8-4115-8643-d76eee0a9baa@709d0",
@@ -257,6 +260,24 @@
       ]
     },
     "dumpMaterials": true,
-    "materialDumpDir": "db://assets/model-triangles/model/marshmallow_doing_shimmer/Materials_scene"
+    "materialDumpDir": "db://assets/model-triangles/model/marshmallow_doing_shimmer/Materials_scene",
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
   }
 }

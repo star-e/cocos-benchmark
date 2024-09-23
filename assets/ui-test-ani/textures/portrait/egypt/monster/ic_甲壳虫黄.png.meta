@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.24",
+  "ver": "1.0.27",
   "importer": "image",
   "imported": true,
   "uuid": "8c9b9292-0e1e-4d86-92e7-8c08f6e5a7bc",
@@ -27,7 +27,7 @@
         "anisotropy": 1,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "8c9b9292-0e1e-4d86-92e7-8c08f6e5a7bc",
-        "visible": true
+        "visible": false
       },
       "displayName": "ic_甲壳虫黄",
       "id": "6c48a",

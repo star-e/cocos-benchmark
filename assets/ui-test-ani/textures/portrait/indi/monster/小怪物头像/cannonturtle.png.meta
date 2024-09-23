@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.24",
+  "ver": "1.0.27",
   "importer": "image",
   "imported": true,
   "uuid": "c6dbfefe-3f0b-49ad-997f-77ff8d663b29",
@@ -27,7 +27,7 @@
         "anisotropy": 1,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "c6dbfefe-3f0b-49ad-997f-77ff8d663b29",
-        "visible": true
+        "visible": false
       },
       "displayName": "cannonturtle",
       "id": "6c48a",

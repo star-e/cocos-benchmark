@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.24",
+  "ver": "1.0.27",
   "importer": "image",
   "imported": true,
   "uuid": "103ab3bf-cb7b-4134-ad8b-57bf14c8ee62",
@@ -27,7 +27,7 @@
         "anisotropy": 1,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "103ab3bf-cb7b-4134-ad8b-57bf14c8ee62",
-        "visible": true
+        "visible": false
       },
       "displayName": "ic_scorpion_king",
       "id": "6c48a",

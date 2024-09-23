@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.0",
+  "ver": "2.3.13",
   "importer": "fbx",
   "imported": true,
   "uuid": "b092a008-0b68-4a4f-8cb6-112af7ef0783",
@@ -11,7 +11,7 @@
       "displayName": "",
       "id": "51d3f",
       "name": "01.mesh",
-      "ver": "1.1.0",
+      "ver": "1.1.1",
       "imported": true,
       "files": [
         ".bin",
@@ -19,7 +19,8 @@
       ],
       "subMetas": {},
       "userData": {
-        "gltfIndex": 0
+        "gltfIndex": 0,
+        "triangleCount": 1246
       }
     },
     "3477c": {
@@ -28,7 +29,7 @@
       "displayName": "",
       "id": "3477c",
       "name": "02.mesh",
-      "ver": "1.1.0",
+      "ver": "1.1.1",
       "imported": true,
       "files": [
         ".bin",
@@ -36,7 +37,8 @@
       ],
       "subMetas": {},
       "userData": {
-        "gltfIndex": 1
+        "gltfIndex": 1,
+        "triangleCount": 1886
       }
     },
     "a6cf4": {
@@ -53,7 +55,10 @@
       ],
       "subMetas": {},
       "userData": {
-        "gltfIndex": 0
+        "gltfIndex": 0,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": false,
+        "type": "texture"
       }
     },
     "a8958": {
@@ -70,7 +75,10 @@
       ],
       "subMetas": {},
       "userData": {
-        "gltfIndex": 1
+        "gltfIndex": 1,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": false,
+        "type": "texture"
       }
     },
     "291d4": {
@@ -127,7 +135,7 @@
       "displayName": "",
       "id": "74df5",
       "name": "newMap02.prefab",
-      "ver": "1.0.12",
+      "ver": "1.0.14",
       "imported": true,
       "files": [
         ".json"
@@ -149,7 +157,6 @@
         "uri": "b092a008-0b68-4a4f-8cb6-112af7ef0783@a8958"
       }
     ],
-    "redirect": "b092a008-0b68-4a4f-8cb6-112af7ef0783@74df5",
     "assetFinder": {
       "meshes": [
         "b092a008-0b68-4a4f-8cb6-112af7ef0783@51d3f",
@@ -172,7 +179,26 @@
     "materialDumpDir": "db://assets/model-animation/model/map",
     "legacyFbxImporter": true,
     "fbx": {
-      "smartMaterialEnabled": false
+      "smartMaterialEnabled": false,
+      "matchMeshNames": false
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
     }
   }
 }

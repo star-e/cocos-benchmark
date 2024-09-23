@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.24",
+  "ver": "1.0.27",
   "importer": "image",
   "imported": true,
   "uuid": "b5d0f874-58f1-42dd-a36a-abbbad65e696",
@@ -27,7 +27,7 @@
         "anisotropy": 1,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "b5d0f874-58f1-42dd-a36a-abbbad65e696",
-        "visible": true
+        "visible": false
       },
       "displayName": "ic_阿努比斯绿色",
       "id": "6c48a",
