@@ -17,7 +17,8 @@
       "startSceneAssetBundle": true,
       "useBuiltinServer": false,
       "skipCompressTexture": false,
-      "server": "http://192.168.0.103:8080"
+      "server": "http://192.168.0.103:8080",
+      "sourceMaps": "inline"
     },
     "options": {
       "wechatgame": {
